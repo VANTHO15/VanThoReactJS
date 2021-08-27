@@ -1,0 +1,15 @@
+*{margin: 0; padding: 0;} 
+html,body{width: 100%; height: 100%;}
+.navbar-expand-sm .navbar-collapse {
+    display: -ms-flexbox!important;
+    display: flex!important;
+    -ms-flex-preferred-size: auto;
+    flex-basis: auto;
+    margin-left: 841px;
+}
+ul li {
+    margin-right: 30px;
+}
+.cachnhau{
+    margin-top: 30px;
+}

@@ -1,0 +1,229 @@
+*{margin:0;padding:0; }
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+img.pro {
+    margin-top: 95px;
+}
+
+img.pro {border: white solid 1px;border-radius: 142px;height: 253px;}
+
+
+.xahoi div:hover {
+    background: white;
+    color: #18bc9c;
+    transition: all 0.4s;
+}
+
+.xahoi div {
+    border: 2px solid white;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 22px;
+    border-radius: 50%;
+    margin: 6px;
+}
+
+.footer1 {
+    background: #2c3e50;
+    padding: 24px 0;
+    text-align: center;
+    color: white;
+}
+
+button.btn.btn-primary.sendbutton {
+    padding: 22px 22px;
+    background: #18bc9c;
+    border: 1px solid #18bc9c;
+}
+
+.contactme textarea {
+    font-size: 20px;
+    color: #acb6c0;
+    padding: 10px 5px;
+    border: none;
+    width: 100%;
+    height: 200px;
+    border-bottom: 1px solid #acb6c0;
+}
+
+input.form-control {
+    border: 0px solid;
+    box-shadow: 0 0 0 transparent;
+    border-bottom: 1px solid #E6E4E4;
+    padding: 30px 5px;
+    display: block;
+    color: #acb6c0;
+    font-size: 20px;
+}
+
+.contactme h2 {
+    font-size: 42px;
+}
+
+.contactme {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+a.btn.btn-default.nutdown {
+    background: none;
+    border: 1px solid white;
+    padding: 14px 22px;
+    margin: 20px auto;
+    font-size: 18px;
+}
+
+.about h2 {
+    font-size: 4em;
+}
+
+.about {
+    background: #18bb9c;
+    margin-top: 100px;
+    padding-top: 110px;
+    color: white;
+    padding-bottom: 70px;
+}
+
+.phongto {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #18BB9C;
+    top: 0px;
+    left: 0px;
+    text-align: center;
+    opacity: 0;
+    transition: all 0.4s;
+    cursor: pointer;
+}
+
+.phongto i {
+    font-size: 66px;
+    color: white;
+    padding-top: 98px;
+}
+
+.sanpham {
+    position: relative;
+    margin-bottom: 21px;
+}
+
+.sanpham:hover .phongto {
+    opacity: 1;
+}
+
+.portfolio h2,.contactme h2 {
+    font-size: 44px;
+    color: #2d3e50;
+}
+
+.portfolio {
+    padding-top: 110px;
+    transition: all 0.4s;
+}
+
+.nenxanh p {
+    font-size: 18px;
+    color: white;
+}
+
+.ngoisao i {
+    width: 56px;
+    height: 40px;
+    background: #18BB9C;
+    position: relative;
+    top: -25px;
+    line-height: 40px;
+    font-size: 33px;
+    color: white;
+}
+
+.portfolio .ngoisao i,.contactme .ngoisao i {
+    background: white;
+    color: #2D3E50;
+}
+
+.ngoisao {
+    width: 23%;
+    margin: auto;
+    border-top: 5px solid white;
+    margin-top: 39px;
+}
+
+.portfolio .ngoisao, .contactme .ngoisao {
+    border-color: black;
+}
+
+.nenxanh h1 {
+    font-size: 71px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.nenxanh {
+    padding: 90px 0 113px 0;
+    background: #18bb9c;
+}
+
+.navbar-default .navbar-brand {
+    padding-top: 44px;
+    font-size: 27px;
+    text-transform: uppercase;
+    color: white;
+    transition: all 0.4s;
+}
+
+.tienhoa .navbar-brand {
+    padding: 25px;
+    font-size: 20px;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #18bb9c;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background: black;
+    color: white;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #18bb9c;
+}
+
+
+
+ul.nav.navbar-nav.navbar-right {
+    padding-top: 30px;
+    transition: all 0.4s;
+}
+
+.tienhoa ul.nav.navbar-nav.navbar-right {
+    padding-top: 12px;
+}
+
+nav.navbar.navbar-default {
+    height: 111px;
+    background: #2d3e50;
+    margin-bottom: 0;
+    transition: all 0.5s;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top.tienhoa {
+    height: 70px;
+}
+ 
+
+
+ 

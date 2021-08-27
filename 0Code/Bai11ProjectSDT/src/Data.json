@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Văn Thọ",
+        "tel":"0909234999",
+        "Permission":1
+    },
+    {
+        "id":2,
+        "name":"Đức Bình",
+        "tel":"0385197363",
+        "Permission":2
+    },
+    {
+        "id":3,
+        "name":"Lưu Huỳnh",
+        "tel":"0387768965",
+        "Permission":3
+    },
+    {
+        "id":4,
+        "name":"Quang Đức",
+        "tel":"0323656476",
+        "Permission":2
+    }
+]
